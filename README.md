@@ -9,15 +9,21 @@ This is the final project exam of the last semester of Front-end Development at 
 
 I chose to work with a real world client. The client was my employer, Jobbkretser AS. 
 “JK Portalen” is a portal that Jobbkretser are going to build for their Partners. It should be used to registrate and keep track of existing customers, candidates, and assignments. They should also have access to timesheets, and their invoices.
-This is a larger project that Jobbkretser are going to outsource to a developing team. 
-For my exam the scope was to create the dashboard and the candidate pages. Because of GDPR and the fact that the API for JK Portalen is not ready yet, I am using a dummy API and hardcoded data for this project. 
+This is a larger project that Jobbkretser in the end are going to outsource to a developing team. But for my exam they wanted me to create the dashboard and the candidate pages.
+Because of GDPR and the fact that the API for JK Portalen is not ready yet, I am using a dummy API and hardcoded data in this project. 
 
 I am using Strapi API as my backend.
+
+### Login info:
+
+* username: test@user.com 
+* password: Pass123
 
 
 ## Built With
 
 - [React.js](https://reactjs.org/)
+- [Styled() - MUI`s utility for creating styled components](https://mui.com/system/styled/)
 - [Material UI](https://mui.com/)
 
 
@@ -34,16 +40,15 @@ git clone https://github.com/Noroff-FEU-Assignments/js-frameworks-course-assignm
 2. Install the dependencies:
 
 ```bash
-yarn install
+npm install
 ```
-
 
 ### Running
 
 1. Run the development server:
 
 ```bash
-yarn dev
+npm start
 ```
 
 2. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
