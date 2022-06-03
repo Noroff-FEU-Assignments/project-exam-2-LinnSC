@@ -1,79 +1,53 @@
-JK Portalen - Project Exam 2
+![Project_Exam_2 (1)](https://user-images.githubusercontent.com/71352428/171937840-1e1ce8a6-9f7c-4ce6-b424-c1e63cfb415a.png)
+![project-exam-screen](https://user-images.githubusercontent.com/71352428/171938186-076b0dde-d7f4-4806-ad48-492a346d49d2.png)
 
-This project is built with React and mMterial UI. Styled with MUI`s styled() utility.
+---
 
-Login info:
+## Description
 
-username: test@user.com
-password: Pass123
+This is the final project exam of the last semester of Front-end Development at Noroff. We had two options for this exam, to create a hotel booking site or work with a "real world client".
 
-//
+I chose to work with a real world client. The client was my employer, Jobbkretser AS. 
+“JK Portalen” is a portal that Jobbkretser are going to build for their Partners. It should be used to registrate and keep track of existing customers, candidates, and assignments. They should also have access to timesheets, and their invoices.
+This is a larger project that Jobbkretser are going to outsource to a developing team. 
+For my exam the scope was to create the dashboard and the candidate pages. Because of GDPR and the fact that the API for JK Portalen is not ready yet, I am using a dummy API and hardcoded data for this project. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I am using Strapi API as my backend.
 
-## Available Scripts
 
-In the project directory, you can run:
+## Built With
 
-### `npm start`
+- [React.js](https://reactjs.org/)
+- [Material UI](https://mui.com/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+### Installing
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repo:
 
-### `npm run build`
+```bash
+git clone https://github.com/Noroff-FEU-Assignments/js-frameworks-course-assignment-LinnSC
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Install the dependencies:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+yarn install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Running
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Run the development server:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+yarn dev
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contributing
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you want to contibute to this project you...
