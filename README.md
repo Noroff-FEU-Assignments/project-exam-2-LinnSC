@@ -7,10 +7,10 @@
 
 This is the final project exam of the last semester of Front-end Development at Noroff. We had two options for this exam, to create a hotel booking site or work with a "real world client".
 
-I chose to work with a real world client. The client was my employer, Jobbkretser AS. 
+I chose to work with a real world client. The client is my employer, Jobbkretser AS. 
 “JK Portalen” is a portal that Jobbkretser are going to build for their Partners. It should be used to registrate and keep track of existing customers, candidates, and assignments. They should also have access to timesheets, and their invoices.
-This is a larger project that Jobbkretser in the end are going to outsource to a developing team. But for my exam they wanted me to create the dashboard and the candidate pages.
-Because of GDPR and the fact that the API for JK Portalen is not ready yet, I am using a dummy API and hardcoded data in this project. 
+This is a larger project that Jobbkretser in the end are going to outsource to a developing team. But for my exam they wanted me to design and build the dashboard and candidate pages.
+Because of GDPR and the fact that the API for JK Portalen is not fully ready yet, I am using a dummy API and hardcoded data in this project. 
 
 I am using Strapi API as my backend.
 
@@ -23,8 +23,8 @@ I am using Strapi API as my backend.
 ## Built With
 
 - [React.js](https://reactjs.org/)
-- [Styled() - MUI`s utility for creating styled components](https://mui.com/system/styled/)
 - [Material UI](https://mui.com/)
+- [Styled() - MUI`s utility for creating styled components](https://mui.com/system/styled/)
 
 
 ## Getting Started
@@ -56,3 +56,10 @@ npm start
 ## Contributing
 
 If you want to contibute to this project you...
+
+## Contact
+
+You can contact me on Linkedin!
+
+[My LinkedIn page](https://www.linkedin.com/in/linn-corneliussen-246b0b56/)
+
