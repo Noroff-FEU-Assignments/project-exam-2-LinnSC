@@ -41,7 +41,7 @@ You have to log in to view any of the "JK Portalen" pages.
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:Noroff-FEU-Assignments/project-exam-2-LinnSC.git
+git clone https://github.com/Noroff-FEU-Assignments/project-exam-2-LinnSC
 
 ```
 
