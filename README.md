@@ -10,7 +10,7 @@ This is the final project exam of the last semester of Front-end Development at 
 I chose to work with a real world client. The client is my employer, Jobbkretser AS. <br>
 “JK Portalen” is a portal that Jobbkretser are going to build for their Partners. The portal are going to be used to registrate and keep track of existing customers, candidates, and assignments.<br>
 This is a larger project that Jobbkretser in the end are going to outsource to a developing team. But for my exam they wanted me to design and build the dashboard and candidate pages.<br>
-Because of GDPR and the fact that the API for JK Portalen is not fully ready yet, I created a dummy API and also used hardcoded data. The backend created with Strapi API.
+Because of GDPR and the fact that the API for JK Portalen is not fully ready yet, I created a dummy API. The backend is created with Strapi API.
 
 ### Dashboard:
 The dashboard is displaying several cards that are going to give usefull information to the Partners once they log in to the portal. The data displayed here are hardcoded for this project, but will later be returned from an API.
