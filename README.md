@@ -8,11 +8,17 @@
 This is the final project exam of the last semester of Front-end Development at Noroff. We had two options for this exam, to create a hotel booking site or work with a "real world client".
 
 I chose to work with a real world client. The client is my employer, Jobbkretser AS. 
-“JK Portalen” is a portal that Jobbkretser are going to build for their Partners. It should be used to registrate and keep track of existing customers, candidates, and assignments. They should also have access to timesheets, and their invoices.
+“JK Portalen” is a portal that Jobbkretser are going to build for their Partners. The portal are going to be used to registrate and keep track of existing customers, candidates, and assignments.
 This is a larger project that Jobbkretser in the end are going to outsource to a developing team. But for my exam they wanted me to design and build the dashboard and candidate pages.
-Because of GDPR and the fact that the API for JK Portalen is not fully ready yet, I am using a dummy API and hardcoded data in this project. 
+Because of GDPR and the fact that the API for JK Portalen is not fully ready yet, I created a dummy API and also used hardcoded data. I am using Strapi API as my backend.
 
-I am using Strapi API as my backend.
+Dashboard:
+
+
+Candidate pages:
+
+
+
 
 ### Login info:
 
@@ -34,7 +40,8 @@ I am using Strapi API as my backend.
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/Noroff-FEU-Assignments/js-frameworks-course-assignment-LinnSC
+git clone git@github.com:Noroff-FEU-Assignments/project-exam-2-LinnSC.git
+
 ```
 
 2. Install the dependencies:
@@ -55,7 +62,7 @@ npm start
 
 ## Contributing
 
-If you want to contibute to this project you...
+If you want to contibute to this project you have to make sure to open a pull request so code can be reviewed.
 
 ## Contact
 
