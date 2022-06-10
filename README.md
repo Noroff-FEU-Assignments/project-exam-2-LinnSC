@@ -5,7 +5,7 @@
 
 ## Description
 
-This is the final project exam of the last semester of Front-end Development at Noroff. We had two options for this exam, to create a hotel booking site or work with a "real world client".
+This is the final project exam of Front-end development 2nd year. We had two options for this exam, to create a hotel booking site or work with a "real world client".
 
 I chose to work with a real world client. The client is my employer, Jobbkretser AS. <br>
 “JK Portalen” is a portal that Jobbkretser are going to build for their Partners. The portal are going to be used to registrate and keep track of existing customers, candidates, and assignments.<br>
