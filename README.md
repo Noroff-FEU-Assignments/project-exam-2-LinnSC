@@ -1,4 +1,4 @@
-![Project_Exam_2 (1)](https://user-images.githubusercontent.com/71352428/171937840-1e1ce8a6-9f7c-4ce6-b424-c1e63cfb415a.png)
+![Project_exam_2 (2)](https://user-images.githubusercontent.com/71352428/173154617-c943cd4e-ed3c-40ae-8565-b97ba7c0065c.png)
 ![project-exam-screen](https://user-images.githubusercontent.com/71352428/171938186-076b0dde-d7f4-4806-ad48-492a346d49d2.png)
 
 ---
